@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\LoginScreen\obj\Debug\LoginForm.Form1.resources
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginForm.Form1.resources
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\prude\Desktop\dcit318-assignment4-10948938\LoginScreen\obj\Debug\LoginScreen.pdb
