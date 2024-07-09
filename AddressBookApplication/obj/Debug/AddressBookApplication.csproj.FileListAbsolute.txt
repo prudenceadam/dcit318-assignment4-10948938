@@ -1,0 +1,11 @@
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\bin\Debug\AddressAookApplication.exe.config
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\bin\Debug\AddressAookApplication.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\bin\Debug\AddressAookApplication.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.AssemblyReference.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressBook.Form1.resources
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressAookApplication.Properties.Resources.resources
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.GenerateResource.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressAookApplication.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressBookApplication\obj\Debug\AddressAookApplication.pdb

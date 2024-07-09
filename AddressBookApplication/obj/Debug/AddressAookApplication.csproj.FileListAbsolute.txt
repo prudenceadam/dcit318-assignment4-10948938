@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\bin\Debug\AddressAookApplication.exe.config
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\bin\Debug\AddressAookApplication.exe
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\bin\Debug\AddressAookApplication.pdb
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.Form1.resources
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.Properties.Resources.resources
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.exe
+C:\Users\HP\Desktop\ALFRED\LECTURES\LEVEL 300\2nd Semester\PROGRAMMING 2\Assignments\AddressAookApplication\obj\Debug\AddressAookApplication.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\bin\Debug\AddressAookApplication.exe.config
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\bin\Debug\AddressAookApplication.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\bin\Debug\AddressAookApplication.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.AssemblyReference.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.Properties.Resources.resources
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.GenerateResource.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.csproj.CoreCompileInputs.cache
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.exe
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressAookApplication.pdb
+C:\Users\Shinelle-Baaba\OneDrive\Documents\Assignment_6_solutions[1]\AddressAookApplication\obj\Debug\AddressBookApplication.Form1.resources
